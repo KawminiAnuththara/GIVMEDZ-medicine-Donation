@@ -2,12 +2,13 @@
   "expo": {
     "name": "GIVMEDZ",
     "slug": "GIVMEDZ",
+  
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -16,12 +17,18 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.kawmini.GIVMEDZ"
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": ""
+    },
+    "extra": {
+      "eas": {
+        "projectId": "78523f8e-a89e-4522-b2d4-1b7aa3169c31"
+      }
     }
   }
 }

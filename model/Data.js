@@ -1,0 +1,115 @@
+export const sliderData=[
+    {
+        title:'First Medicine',
+        image:require('../assets/2nd.jpg'),
+    },
+    {
+        title:'Second Medicine',
+        image:require('../assets/3rd.jpg'),
+    },
+    {
+        title:'Third Medicine',
+        image:require('../assets/4th.jpg'),
+    },
+];
+
+export const paidMedicine=[
+    {
+        poster:require('../assets/5th.jpg'),
+        title:'Vitamin D',
+        subtitle:'Tablets',
+        location:'Homagama',
+        donar:'Mr.Perera',
+        id:'1',
+    },
+    {
+        poster:require('../assets/4th.jpg'),
+        title:'Vitamin D',
+        subtitle:'Tablets',
+        location:'Homagama',
+        donar:'Mr.Perera',
+        id:'2',
+    },
+    {
+        poster:require('../assets/3rd.jpg'),
+        title:'Vitamin D',
+        subtitle:'Tablets',
+        location:'Homagama',
+        donar:'Mr.Perera',
+        id:'3',
+    },
+    {
+        poster:require('../assets/2nd.jpg'),
+        title:'Vitamin D',
+        subtitle:'Tablets',
+        location:'Homagama',
+        donar:'Mr.Perera',
+        id:'4',
+    },
+    {
+        poster:require('../assets/diabe.jpg'),
+        title:'Vitamin D',
+        subtitle:'Tablets',
+        location:'Homagama',
+        donar:'Mr.Perera',
+        id:'5',
+    },
+    {
+        poster:require('../assets/5th.jpg'),
+        title:'Vitamin D',
+        subtitle:'Tablets',
+        location:'Homagama',
+        donar:'Mr.Perera',
+        id:'6',
+    },
+];
+export const freeMedicine=[
+    {
+        poster:require('../assets/5th.jpg'),
+        title:'Vitamin D',
+        subtitle:'Tablets',
+        location:'Homagama',
+        donar:'Mr.Perera',
+        id:'1',
+    },
+    {
+        poster:require('../assets/4th.jpg'),
+        title:'Vitamin D',
+        subtitle:'Tablets',
+        location:'Homagama',
+        donar:'Mr.Perera',
+        id:'2',
+    },
+    {
+        poster:require('../assets/3rd.jpg'),
+        title:'Vitamin D',
+        subtitle:'Tablets',
+        location:'Homagama',
+        donar:'Mr.Perera',
+        id:'3',
+    },
+    {
+        poster:require('../assets/2nd.jpg'),
+        title:'Vitamin D',
+        subtitle:'Tablets',
+        location:'Homagama',
+        donar:'Mr.Perera',
+        id:'4',
+    },
+    {
+        poster:require('../assets/diabe.jpg'),
+        title:'Vitamin D',
+        subtitle:'Tablets',
+        location:'Homagama',
+        donar:'Mr.Perera',
+        id:'5',
+    },
+    {
+        poster:require('../assets/5th.jpg'),
+        title:'Vitamin D',
+        subtitle:'Tablets',
+        location:'Homagama',
+        donar:'Mr.Perera',
+        id:'6',
+    },
+];
